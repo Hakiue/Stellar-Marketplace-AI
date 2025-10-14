@@ -7,25 +7,35 @@ Project Title
 ---
 
  Project Description
-**Stellar Marketplace AI** is a decentralized web marketplace that lets users connect their Stellar wallets (Freighter or xBull), browse products, and purchase them securely using **XLM on the Stellar Testnet**.
 
-The app also includes:
-- An **AI-powered assistant (“Stella”)** that answers user questions.
-- Integration with an **n8n workflow** for dynamic FAQ lookup and AI chat.
-- Automatic transaction handling and product management directly on the blockchain.
+Stellar Marketplace AI is a decentralized web marketplace that lets users connect their Stellar wallets (Freighter or xBull), browse products, post their own listings, and purchase securely using XLM on the Stellar Testnet.
 
-This project demonstrates how AI + blockchain can merge to create **smarter, self-service decentralized commerce** experiences.
+Beyond just product sales, this platform expands into a service and automation economy — empowering creators, developers, and AI enthusiasts to share, sell, and collaborate through Web3.
+
+The app includes:
+
+An AI-powered assistant (“Stella”) that helps users with marketplace navigation, wallet setup, and product creation.
+
+A Seller Page where users can list physical or digital products, showcase their skills, and use the built-in AI description generator to automatically create polished listings.
+
+A Workflow Exchange Page where users can post n8n workflows they’re looking for, offer automation jobs, or request custom AI agents trained for specific tasks.
+
+Full on-chain payment processing using the Stellar blockchain, ensuring fast, transparent, and low-cost transactions.
+
+This project shows how AI, automation, and blockchain can merge to create a smart decentralized work and commerce ecosystem.
 
 ---
 
 Features
-✅ Connect your Stellar wallet (Freighter or xBull)  
-✅ Browse and buy products on Stellar Testnet  
-✅ Process real on-chain XLM payments  
-✅ AI-powered assistant (Stella) using n8n + Gemini/OpenAI  
-✅ FAQ responses stored and managed via Google Sheets  
-✅ Logs every chat and transaction automatically  
-✅ Expandable product system (add descriptions via AI)  
+
+✅ Connect and authenticate with Stellar wallets (Freighter or xBull)
+✅ Browse and purchase products using Stellar Testnet payments
+✅ Create listings for items, digital assets, or skills
+✅ AI description generator for product and skill listings
+✅ AI assistant (Stella) powered by n8n + Gemini/OpenAI
+✅ Workflow marketplace — find or offer n8n automations and AI agents
+✅ Logs all user and AI interactions to Google Sheets for transparency
+✅ End-to-end blockchain transaction history 
 
 ---
 
