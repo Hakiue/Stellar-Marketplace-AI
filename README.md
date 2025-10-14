@@ -29,12 +29,19 @@ This project shows how AI, automation, and blockchain can merge to create a smar
 Features
 
 ✅ Connect and authenticate with Stellar wallets (Freighter or xBull)
+
 ✅ Browse and purchase products using Stellar Testnet payments
+
 ✅ Create listings for items, digital assets, or skills
+
 ✅ AI description generator for product and skill listings
+
 ✅ AI assistant (Stella) powered by n8n + Gemini/OpenAI
+
 ✅ Workflow marketplace — find or offer n8n automations and AI agents
+
 ✅ Logs all user and AI interactions to Google Sheets for transparency
+
 ✅ End-to-end blockchain transaction history 
 
 ---
