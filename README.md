@@ -47,33 +47,6 @@ How to Run the Project
 - Freighter or xBull wallet (set to **Testnet**)  
 - Google Sheets + n8n account (for AI workflows)  
 
- 🪄 Setup Instructions
-``bash
-Clone the repo
-git clone https://github.com/yourusername/stellar-marketplace-ai.git
-
-# 2. Navigate into the folder
-cd stellar-marketplace-ai
-
-# 3. Install dependencies
-npm install
-
-# 4. Add your environment variables
-# (Edit .env file)
-VITE_GEMINI_API_KEY=your_api_key_here
-VITE_N8N_WEBHOOK=https://n8n.yourdomain.app/webhook/stellar-ai
-
-# 5. Run the development server
-npm run dev
-``
-
-Then open [http://localhost:5173](http://localhost:5173)  
-
----
-
-Demo Video Link
-🎥 [Add your YouTube / Google Drive demo link here]  
-
 ---
 
 Team Members
